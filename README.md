@@ -34,5 +34,5 @@ go build -o task-tracker
 ./task-tracker list
 ./task-tracker list done
 ./task-tracker list todo
-./task-tracker list in-progress
+./task-tracker list in_progress
 ```
